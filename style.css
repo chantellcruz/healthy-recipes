@@ -1,0 +1,55 @@
+body {
+  background-color: #d0d1c7;
+  margin: 0;
+}
+
+img {
+  width: 150px;
+  border-radius: 100px;
+  border: 5px solid #918161;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+h1 {
+  font-family: 'Dawning of a New Day', cursive;
+  text-align: center;
+  font-size: 54px;
+  line-height: 1em;
+}
+
+#container {
+  width: 550px;
+  background-color: white;
+  display: block;
+  margin: 50px auto 50px auto;
+  padding: 50px;
+  border-radius: 30px;
+}
+
+.description {
+  font-size: 18px;
+  line-height: 1.6em;
+  }
+
+#cook-time {
+  font-weight: bold;
+  }
+
+ingredients li  {
+  list-style: square;
+  }
+
+  p.time {
+    color: #aaaaaa;
+  }
+
+  .external-link {
+    color: #D1953E;
+  }
+
+h2, p, li {
+    font-family: roboto;
+  }
